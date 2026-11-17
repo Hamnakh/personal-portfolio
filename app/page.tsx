@@ -137,8 +137,8 @@ export default function Home() {
                 Explore Projects
               </a>
               <a
-                href="/hamna-cv.pdf"
-                download="Hamna-CV.pdf"
+                href="/Hamna-cv.pdf"
+                download="Hamna-cv.pdf"
                 className="inline-flex items-center gap-2 rounded-full border border-cyan-400/30 bg-cyan-400/5 px-6 py-3 font-semibold text-cyan-300 transition hover:bg-cyan-400/15 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-cyan-300"
               >
                 <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
